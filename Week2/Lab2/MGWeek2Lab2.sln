@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGWeek2Lab2", "MGWeek2Lab2\MGWeek2Lab2.csproj", "{6138F361-9BC8-40CC-BBC8-FC5DAEE9ABE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6138F361-9BC8-40CC-BBC8-FC5DAEE9ABE4}.Debug|x86.ActiveCfg = Debug|x86
+		{6138F361-9BC8-40CC-BBC8-FC5DAEE9ABE4}.Debug|x86.Build.0 = Debug|x86
+		{6138F361-9BC8-40CC-BBC8-FC5DAEE9ABE4}.Release|x86.ActiveCfg = Release|x86
+		{6138F361-9BC8-40CC-BBC8-FC5DAEE9ABE4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E21D4ECB-CC45-42A6-9EF2-16F0264F1375}
+	EndGlobalSection
+EndGlobal
